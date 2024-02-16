@@ -11,12 +11,12 @@ Příkazy:
 |-|-|-|
 |aaaa|aaa|aaa|
 
-````
+```` git bash
 git add .
 ````
-````
+```` git bash
 git commit -m "M"
 ````
-````
+```` git bash
 git push -u origin master (main)
 ````
